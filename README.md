@@ -7,7 +7,11 @@ The project involves preprocessing X-ray images, extracting meaningful features,
 This project demonstrates the application of machine learning in medical image analysis and highlights how automated systems can assist in early osteoporosis detection.
 
 Technologies Used
+
 Python
+
 Machine Learning
+
 Image Processing
-X-ray Dataset
+
+X-ray Dataset:https://www.kaggle.com/datasets/stevepython/osteoporosis-knee-xray-dataset/code
